@@ -11,7 +11,9 @@
 - ⚡ Fun fact The world’s first computer programmer was a renowned female mathematician
 
 ## 🏆 GitHub Trophies
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=Nitya-Rai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 
 # 💻 Tech Stack:
