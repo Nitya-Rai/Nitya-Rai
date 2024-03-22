@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Nitya-Rai&icon=0&color=9)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 
 - 🔭 I’m currently learning new things.<br><br>
