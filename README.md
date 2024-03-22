@@ -3,6 +3,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=Nitya-Rai&icon=0&color=9)](https://visitcount.itsvg.in)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitya-Rai&label=Profile%20views&color=0e75b6&style=flat" alt="Nitya Rai" /> </p>
+
 # 💫 About Me:
 
 - 🔭 I’m currently learning new things.<br><br>
