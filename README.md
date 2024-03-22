@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Rai</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Nitya-Rai&icon=0&color=9)](https://visitcount.itsvg.in)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitya-Rai&label=Profile%20views&color=0e75b6&style=flat" alt="Nitya Rai" /> </p>
 
 # 💫 About Me:
