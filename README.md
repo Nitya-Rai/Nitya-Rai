@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitya-Rai&label=Profile%20views&color=0e75b6&style=flat" alt="Nitya Rai" /> </p>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Nitya-Rai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 # 💫 About Me:
 
 - 🔭 I’m currently learning new things.<br><br>
@@ -10,9 +15,7 @@
 - 📫 How to reach me <br><br>
 - ⚡ Fun fact The world’s first computer programmer was a renowned female mathematician
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Nitya-Rai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
